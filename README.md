@@ -1,4 +1,4 @@
-# OOP_lqb1
+# OOP_lab1
 Необходимо сверстать сайты визитки с использованием Bootstrap + Servlet
 - Главная страница
 ![alt text](https://github.com/Vital1kS/OOP_lqb1/blob/main/images/main.png)
